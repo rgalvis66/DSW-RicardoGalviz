@@ -1,0 +1,19 @@
+*{
+	margin:5px;
+	border-radius: 3px;
+}
+
+body {
+	/*color del fondo*/
+	background:black;
+	/*color del el contenido*/
+	color: #fff;
+	/*selectores*/
+}
+
+header {
+	background-color: gray(236,233,240);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
